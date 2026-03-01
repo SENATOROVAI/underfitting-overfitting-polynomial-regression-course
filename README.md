@@ -17,8 +17,6 @@ This repository explains the fundamental concepts of:
 * **Regularization (Ridge / Lasso)**
 * **Model Complexity in Machine Learning**
 
-All concepts are explained mathematically and geometrically, with formulas written in LaTeX using `$$` for proper GitHub rendering and Google indexing.
-
 ---
 
 # 1️⃣ Underfitting

@@ -7,6 +7,8 @@
 [![Website](https://img.shields.io/badge/website-live-blue.svg)](https://senatorovai.github.io/underfitting-overfitting-polynomial-regression-course/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18818738.svg)](https://doi.org/10.5281/zenodo.18821358)
+[![Code Style](https://img.shields.io/badge/code%20style-black-black)]()
+[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)]()
 
 
 **Keywords:** underfitting, overfitting, polynomial regression, bias-variance tradeoff, machine learning, regularization, cross-validation, data science, model complexity

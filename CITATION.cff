@@ -5,7 +5,7 @@ title: "underfitting-overfitting-polynomial-regression-course"
 
 version: "0.1.0"
 
-doi: ""
+doi: "10.5281/zenodo.18821358"
 
 date-released: "2026-03-01"
 
@@ -38,7 +38,7 @@ abstract: >
 
 preferred-citation:
   type: report
-  doi: ""
+  doi: "10.5281/zenodo.18821358"
   title: "underfitting-overfitting-polynomial-regression-course"
   authors:
     - family-names: "Senatorov"

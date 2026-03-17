@@ -1,4 +1,4 @@
-# stepik: https://stepik.org/a/250384
+#### https://SenatorovAI.com
 
 # Underfitting, Overfitting, Polynomial Regression — Data Science
 
